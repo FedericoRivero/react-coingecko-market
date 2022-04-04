@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Market Coin",
+  "name": "Market Coin Sample with api coingecko",
   "icons": [
     {
       "src": "favicon.ico",
