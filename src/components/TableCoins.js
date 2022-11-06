@@ -11,7 +11,6 @@ const TableCoins = ({ coins, search }) => {
   );
 
   return (
-    <div className="container-fluid">
       <div className="table-responsive">
         <table className="table table-dark mt-4 table-hover">
           <thead>
@@ -28,7 +27,6 @@ const TableCoins = ({ coins, search }) => {
           </tbody>
         </table>
       </div>
-    </div>
 
     // <table classNameName="table table-dark mt-4 table-hover">
     //   <thead>
